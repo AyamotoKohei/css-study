@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+    margin: 10px;
+    color: darkblue;
+}
+li {
+    list-style-type: square;
+    margin: 10px;
+}
+a {
+    font-weight: bold;
+}
